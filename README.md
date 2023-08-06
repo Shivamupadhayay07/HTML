@@ -1,2 +1,2 @@
 #temolates
-#To see the output [CLICK HERE](github.io link here)
+#To see the output [CLICK HERE](https://shivamupadhayay07.github.io/HTML/)
